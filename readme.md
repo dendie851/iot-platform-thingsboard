@@ -12,7 +12,7 @@ This project demonstrates the implementation and configuration of the ThingsBoar
 - [7. Configuration and Usage Guide](#7-configuration-and-usage-guide)
 - [8. Configuration Steps](#8-configuration-steps)
 
----
+
 
 ## 1. The IoT 
 The Internet of Things (IoT) represents a massive shift in how we interact with the physical world. It involves connecting billions of devices to the internet to gather data and automate processes. For companies, this phenomenon brings challenges like managing massive amounts of data, ensuring security, and scaling thousands of sensors. 
@@ -69,12 +69,12 @@ The architecture includes the Transport layer (MQTT, HTTP, CoAP), the Core servi
 - **Tenant Administrator:** `tenant@thingsboard.org` / `tenant`
 - **Customer User:** `customer@thingsboard.org` / `customer`
 
----
+
 
 ## 7. Configuration and Usage Guide
 All configuration steps, from setting up device profiles to creating public dashboards, are documented through the screenshots in the `ss/` folder.
 
----
+
 
 ## 8. Configuration Steps
 
@@ -212,5 +212,5 @@ This image shows the mobile application's connection status. It confirms that th
 ![31-connect-mobile-5.jpg](./ss/31-connect-mobile-5.jpg)
 The final screenshot shows the live data appearing on the mobile application. It demonstrates that the end-to-end connectivity from the sensor device to the platform and finally to the user's mobile screen is complete, enabling real-time responses to environment changes from anywhere.
 
----
+
 © 2024 ThingsBoard IoT Project. Documented with care for professional deployment.
